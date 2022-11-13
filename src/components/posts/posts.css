@@ -1,0 +1,9 @@
+.posts{
+    flex: 9;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    
+    background-color: rgb(5, 57, 125);
+}
+
